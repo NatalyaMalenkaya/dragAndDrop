@@ -1,0 +1,15 @@
+.image-container {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.container {
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
